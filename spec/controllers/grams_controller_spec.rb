@@ -1,8 +1,6 @@
 require 'rails_helper'
 
 RSpec.describe GramsController, type: :controller do
-  
-end
 
   describe "grams#new action" do
     it "should successfully show the new form" do
