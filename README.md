@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Grammable is written in Ruby on Rails framework.
+Grammable is an Instagram app clone that allows users to share and comment on photos. 
 
-Things you may want to cover:
+See it in action <a href="https://grammable-winnie-khuu.herokuapp.com">here</a>.
 
-* Ruby version
+## SEE IT LOCALLY
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+1. Download the repository and unzip the files.
+2. In your preferred coding environment, navigate to the folder `cd XXXXX/grammable-master`
+3. Run `bundle install` to install the required Ruby gems.
+3. Run `rake db:create db: migrate` to set up the database.
+4. Visit your localhost link (i.e. localhost:3030 or localhost:3000)
