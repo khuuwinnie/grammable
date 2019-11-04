@@ -5,6 +5,16 @@ Grammable is an Instagram app clone that allows users to share and comment on ph
 
 See it in action <a href="https://grammable-winnie-khuu.herokuapp.com">here</a>.
 
+## TECHNOLOGIES USED
+* HTML
+* CSS
+* Ruby
+* Rails
+* Algorithms
+* Vagrant
+* PuTTY
+* RubyMine
+
 ## SEE IT LOCALLY
 
 1. Download the repository and unzip the files.
