@@ -12,3 +12,22 @@ See it in action <a href="https://grammable-winnie-khuu.herokuapp.com">here</a>.
 3. Run `bundle install` to install the required Ruby gems.
 3. Run `rake db:create db: migrate` to set up the database.
 4. Visit your localhost link (i.e. localhost:3030 or localhost:3000)
+
+## SCREENSHOTS
+![alt text](grammable1.png)
+Index page with all photos by all users
+
+![alt text](grammable2.png)
+Sign up page
+
+![alt text](grammable3.png)
+Upload a new gram
+
+![alt text](grammable4.png)
+New gram uploaded
+
+![alt text](grammable5.png)
+Edit gram capability
+
+![alt text](grammable6.png)
+Destroy gram capability
